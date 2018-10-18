@@ -1,0 +1,1 @@
+Segmentation of grapics image with k-means algorithm. There are two modes (CONTINUOUS and ITERATIVE)
